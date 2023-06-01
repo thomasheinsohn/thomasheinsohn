@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Ich webe Träume aus Nullen und Einsen.
+I weave dreams of zeros and ones.
 
 <!--
 **thomasheinsohn/thomasheinsohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
