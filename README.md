@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I weave dreams of zeros and ones. 
-  🕸️     💫       0️⃣       1️⃣
+I weave dreams of zeros and ones. 🕸️ 💫 0️⃣ 1️⃣
 
 
 <!--
