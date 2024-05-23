@@ -1,4 +1,4 @@
-### Hello.👋 I weave dreams of zeros and ones.🕸️💫0️⃣1️⃣
+### Hello.👋 I am a Java/Kotlin Backend Developer and weave dreams of zeros and ones.🕸️💫0️⃣1️⃣ 
 
 
 <!--
