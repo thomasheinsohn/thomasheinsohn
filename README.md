@@ -1,5 +1,7 @@
 ### Hello.👋 I am a Java/Kotlin Backend Developer and weave dreams of zeros and ones.🕸️💫0️⃣1️⃣ 
 
+In my current project I am using another git.
+
 
 <!--
 **thomasheinsohn/thomasheinsohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
